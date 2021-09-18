@@ -1,0 +1,13 @@
+== Slides
+image::background.png[background,size=contain]
+
+[.notes]
+--
+* Why slides?
+--
+
+=== Talk
+image::background-pattern.png[background,size=contain]
+
+=== Documentation
+image::background-empty.png[background,size=contain]

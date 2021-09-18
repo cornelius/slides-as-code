@@ -1,0 +1,11 @@
+= Slides as Code
+:revealjs_theme: white
+:customcss: css/my.css
+:revealjs_controls: false
+:imagesdir: images
+
+image::background.png[background,size=contain]
+
+include::part_one.adoc[]
+
+include::part_two.adoc[]

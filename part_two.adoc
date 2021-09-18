@@ -1,0 +1,16 @@
+== Code
+image::background-empty.png[background,size=contain]
+
+[.notes]
+--
+* Why as code?
+--
+
+=== AsciiDoc
+image::background-pattern.png[background,size=contain]
+
+=== Reveal.js
+image::background-empty.png[background,size=contain]
+
+=== GitHub Actions
+image::background-empty.png[background,size=contain]
