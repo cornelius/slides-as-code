@@ -7,7 +7,7 @@ image::background.png[background,size=contain]
 --
 
 === Talk
-image::background-pattern.png[background,size=contain]
+image::background.png[background,size=contain]
 
 === Documentation
-image::background-empty.png[background,size=contain]
+image::background.png[background,size=contain]
