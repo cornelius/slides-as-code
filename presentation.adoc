@@ -1,4 +1,5 @@
 = Slides as Code
+:revealjsdir: revealjs
 :revealjs_theme: white
 :customcss: css/my.css
 :revealjs_controls: false
