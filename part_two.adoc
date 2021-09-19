@@ -14,3 +14,6 @@ image::background.png[background,size=contain]
 
 === GitHub Actions
 image::background.png[background,size=contain]
+
+=== GitHub Pages
+image::background.png[background,size=contain]
