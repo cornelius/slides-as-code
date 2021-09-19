@@ -1,11 +1,10 @@
 = Slides as Code
-:revealjsdir: revealjs
 :revealjs_theme: white
 :customcss: css/my.css
 :revealjs_controls: false
 :imagesdir: images
-
-image::background.png[background,size=contain]
+:title-slide-background-image: background.png
+:title-slide-background-size: contain
 
 include::part_one.adoc[]
 
